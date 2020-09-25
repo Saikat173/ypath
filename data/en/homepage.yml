@@ -58,28 +58,6 @@ experience:
       duration : "December 2019-January 2020"
       content : "I worked on ML techniques, specifically in building model from a large dataset and be able to collect FOSSEE Certificates. I also worked on object detection from images and videos."
 
-########################### education ##############################
-education:
-  enable : true
-  title : "EDUCATION"
-  education_list:
-    # eeducation item loop
-    - name : "Bachelor of Science in Statistics"
-      institution : "University Of Calcutta"
-      duration : "2017-2020"
-      percentage : "79%"
-      
-    # education item loop
-    - name : "Higher Secondary Education"
-      school : "BT Road Govt Sponsord High School"
-      duration : "2015-2017"
-      percentage : "91.6%"
-      
-    # education item loop
-    - name : "Secondary Education"
-      school : "Baranagore Ramkrishna Mission Ashram High School"
-      duration : "2005-2015"
-      percentage : "91.86%"  
 
 ############################### skill #################################
 skill:
@@ -106,6 +84,30 @@ skill:
     - name : "Big Data Analytics using Pyspark"
       parcentage : "60%"
 
+########################### Education ##############################
+education:
+  enable : true
+  title : "EDUCATION"
+  education_list:
+    # eeducation item loop
+    - name : "Bachelor of Science in Statistics"
+      institution : "University Of Calcutta"
+      duration : "2017-2020"
+      percentage : "79%"
+      
+    # education item loop
+    - name : "Higher Secondary Education"
+      institution : "BT Road Govt Sponsord High School"
+      duration : "2015-2017"
+      percentage : "91.6%"
+      
+    # education item loop
+    - name : "Secondary Education"
+      institution : "Baranagore Ramkrishna Mission Ashram High School"
+      duration : "2005-2015"
+      percentage : "91.86%"  
+      
+     
 
 ################################### services ##############################3
 service:
