@@ -32,7 +32,7 @@ fullscreen_nav:
 ########################### About me ##################################
 about:
   enable : true
-  image : "images/backgrounds/portrait.jpg"
+  image : "images/backgrounds/download.jpg"
   title : "KNOW MORE <br> ABOUT ME"
   content : "It's Saikat, an enthusiastic B.Sc grad in Statistics having skills in various domains;Data Science, Machine Learning, Big Data Analytics and also in Application Development. I always ravenous to learn new things and love to solve problems, it’s my passion. i can help you to describe yourself in the best way.<br>No matter how difficult your streneous requirment is, i will find an easy way and complete your work anyway. Stay connect with me............😊"
   # button
