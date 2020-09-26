@@ -24,7 +24,7 @@ hero:
 ####################### Full screen navigation #####################
 fullscreen_nav:
   enable : true
-  bg_image : "full-nav-bg"
+  bg_image : "images/backgrounds/artificialbrain_01.jpg"
   first_name : "Saikat"
   last_name : "Kar"
   
@@ -84,7 +84,7 @@ skill:
     - name : "Big Data Analytics using Pyspark"
       parcentage : "60%"
 
-########################### Education ##############################3
+########################### Education ##############################
 education:
   enable : true
   title : "EDUCATION"
@@ -240,33 +240,6 @@ portfolio:
       image : "images/portfolio/item15.jpg"
       date : "Feb 2018"
       category : "Graphics"
-
-
-################################# CLIENTS #########################33
-testimonial:
-  enable : true
-  title : "CLIENTS"
-  testimonial_slider:
-    # slider item loop
-    - name : "Micheal Clark"
-      image : "images/clients/client1.jpg"
-      designation : "CEO, RANDOM COMPANY"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
-                omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
-                
-    # slider item loop
-    - name : "Peter Parker"
-      image : "images/clients/client2.jpg"
-      designation : "CEO, RANDOM COMPANY"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
-                omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
-                
-    # slider item loop
-    - name : "Jessica Jones"
-      image : "images/clients/client3.jpg"
-      designation : "CEO, RANDOM COMPANY"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
-                omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
 
 
 ######################### funfacts #############################3
