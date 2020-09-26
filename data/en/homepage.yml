@@ -84,7 +84,7 @@ skill:
     - name : "Big Data Analytics using Pyspark"
       parcentage : "60%"
 
-########################### Education ##############################
+########################### Education ##############################3
 education:
   enable : true
   title : "EDUCATION"
