@@ -1,6 +1,5 @@
 ######################## default configuration ####################
 baseURL = "https://examplesite.com"
-title = "Somrat | Hugo Portfolio Template"
 theme = "somrat"
 # disable language
 disableLanguages = [] # desable language from here
@@ -78,10 +77,8 @@ URL = "#contact"
 weight = 6
 
 
+
 #################### default parameters ################################
-[params]
-logo_light = "images/logo.png"
-logo_dark = "images/logo-dark.png"
 # Meta data
 description = "This is meta description"
 author = "Saikat"
@@ -125,6 +122,6 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
+copyright = "Copyright &copy; 2020 a hugo theme by [Saikat](https://ypath-hoover-saikat.netlify.app/)"
 
 

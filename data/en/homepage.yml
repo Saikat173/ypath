@@ -84,12 +84,12 @@ skill:
     - name : "Big Data Analytics using Pyspark"
       parcentage : "60%"
 
-########################### Education ##############################
+########################### education ##############################
 education:
   enable : true
   title : "EDUCATION"
   education_list:
-    # eeducation item loop
+    # education item loop
     - name : "Bachelor of Science in Statistics"
       institution : "University Of Calcutta"
       duration : "2017-2020"
@@ -107,7 +107,22 @@ education:
       duration : "2005-2015"
       percentage : "91.86%"  
       
-     
+############################### hobby #################################
+hobby:
+  enable : true
+  title : "HOBBY"
+  hobby_list:
+    # hobby item loop
+    - name : "Writting"
+      parcentage : "90%"
+      
+    # skill item loop
+    - name : "Cricket"
+      parcentage : "85%"
+      
+    # skill item loop
+    - name : "travelling"
+      parcentage : "70%"
 
 ################################### services ##############################3
 service:
