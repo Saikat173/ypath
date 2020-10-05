@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://ypath-hoover-saikat.netlify.app"
 theme = "somrat"
 # disable language
 disableLanguages = [] # desable language from here
@@ -76,7 +76,10 @@ name = "Contact"
 URL = "#contact"
 weight = 6
 
-
+[[menu.main]]
+name = "Education"
+URL = "#Education"
+weight = 7
 
 #################### default parameters ################################
 # Meta data
