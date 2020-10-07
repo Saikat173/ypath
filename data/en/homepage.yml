@@ -29,7 +29,7 @@ fullscreen_nav:
   last_name : "Kar"
   
 
-########################### About me ##################################
+########################### About ##################################
 about:
   enable : true
   image : "images/backgrounds/download.jpg"
@@ -41,7 +41,7 @@ about:
     label : "DOWNLOAD MY CV"
     link : "#" # you can put your cv in static folder and give the path here.
 
-########################### experience ##############################
+########################### Experience ##############################
 experience:
   enable : true
   title : "EXPERIENCE"
@@ -57,31 +57,8 @@ experience:
       company : "IIT BOMBAY"
       duration : "December 2019-January 2020"
       content : "I worked on ML techniques, specifically in building model from a large dataset and be able to collect FOSSEE Certificates. I also worked on object detection from images and videos."
-########################### education ##############################
-education:
-  enable : true
-  title : "EDUCATION"
-  education_list:
-    # education item loop
-    - name : "Bachelor of Science in Statistics"
-      institution : "University Of Calcutta"
-      duration : "2017-2020"
-      percentage : "79%"
-      
-    # education item loop
-    - name : "Higher Secondary Education"
-      institution : "BT Road Govt Sponsord High School"
-      duration : "2015-2017"
-      percentage : "91.6%"
-      
-    # education item loop
-    - name : "Secondary Education"
-      institution : "Baranagore Ramkrishna Mission Ashram High School"
-      duration : "2005-2015"
-      percentage : "91.86%"  
-      
 
-############################### skill #################################
+############################### Skill #################################
 skill:
   enable : true
   title : "SKILL"
@@ -105,6 +82,30 @@ skill:
      # skill item loop
     - name : "Big Data Analytics using Pyspark"
       parcentage : "60%"
+      
+########################### Education ##############################
+education:
+  enable : true
+  title : "EDUCATION"
+  education_list:
+    # education item loop
+    - name : "Bachelor of Science in Statistics"
+      company : "University Of Calcutta"
+      duration : "2017-2020"
+      content : "79%"
+      
+    # education item loop
+    - name : "Higher Secondary Education"
+      company : "BT Road Govt Sponsord High School"
+      duration : "2015-2017"
+      content : "91.6%"
+      
+    # education item loop
+    - name : "Secondary Education"
+      company : "Baranagore Ramkrishna Mission Ashram High School"
+      duration : "2005-2015"
+      content : "91.86%"  
+      
 
 
 ############################### hobby #################################
@@ -112,7 +113,7 @@ hobby:
   enable : true
   title : "HOBBY"
   hobby_list:
-    # hobby item loop
+    # skill item loop
     - name : "Writting"
       parcentage : "90%"
       
