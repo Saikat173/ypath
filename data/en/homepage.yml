@@ -83,7 +83,7 @@ skill:
     - name : "Big Data Analytics using Pyspark"
       parcentage : "60%"
       
-########################### education ##############################
+###########################education##############################
 education:
   enable : true
   title : "EDUCATION"
@@ -108,7 +108,7 @@ education:
       
 
 
-############################### hobby #################################
+###############################hobby#################################
 hobby:
   enable : true
   title : "HOBBY"
@@ -162,7 +162,7 @@ call_to_action:
     link : "#contact"
 
 
-############################# portfolio ################################
+#############################portfolio################################
 portfolio:
   enable : true
   title : "BLOGS"

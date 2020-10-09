@@ -62,7 +62,7 @@ URL = "#service"
 weight = 3
 
 [[menu.main]]
-name = "Portfolio"
+name = "Blogs"
 URL = "#portfolio"
 weight = 4
 
@@ -80,10 +80,10 @@ weight = 6
 
 #################### default parameters ################################
 # Meta data
-description = "This is meta description"
+description = "Hi!This is meta description"
 author = "Saikat"
 # contact form action
-contact_form_action = "" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/xbjzezgy" # contact form works with https://formspree.io
 # Google Analitycs
 google_analitycs_id = "" # your id
 
@@ -123,5 +123,4 @@ weight = 1
 home = "Home"
 # copyright
 copyright = "Copyright &copy; 2020 a hugo theme by [Saikat](https://ypath-hoover-saikat.netlify.app/)"
-
 
