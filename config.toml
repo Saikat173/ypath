@@ -1,5 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://ypath-hoover-saikat.netlify.app/"
+title = "Saikat's Website"
 theme = "somrat"
 # disable language
 disableLanguages = [] # desable language from here
@@ -63,7 +64,7 @@ weight = 3
 
 [[menu.main]]
 name = "Blogs"
-URL = "#portfolio"
+URL = "https://rpubs.com/Saikat173/672896"
 weight = 4
 
 [[menu.main]]
