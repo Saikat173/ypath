@@ -83,6 +83,7 @@ skill:
     - name : "Big Data Analytics using Pyspark"
       parcentage : "60%"
       
+
 ########################education##############################################
 education:
   enable : true
@@ -100,6 +101,11 @@ education:
       duration : "2015-2017"
       content : "percentage: 91.6%"
       
+      # experience item loop
+    - name : "Secondary Education"
+      company : "Baranagore Ramkrishna Mission Ashrama High School"
+      duration : "2005-2015"
+      content : "percentage: 91.87%"
 
 
 ########################hobby##############################################
@@ -118,12 +124,7 @@ hobby:
     # skill item loop
     - name : "travelling"
       parcentage : "70%"
-
-    - name : "Cooking"
-      parcentage : "80%"
-
-    - name : "Yoga"
-      parcentage : "75%"
+      
 
 ################################### services ##############################3
 service:
@@ -161,7 +162,17 @@ call_to_action:
     label : "SAY HELLO!"
     link : "#contact"
 
-
+############################# portfolio ################################
+portfolio:
+  enable : true
+  title : "BLOGS"
+  portfolio_list:
+    # portfolio item loop
+    - name : "Random Forest using R"
+      image : "images/portfolio/Random Forest.png"
+      content : "Random forest is a popular supervised machine learning algorithm—used for both classification and regression problems."
+      plink : "https://rpubs.com/Saikat173/672896"
+      
 ################################# Testimonial #########################33
 testimonial:
   enable : true
