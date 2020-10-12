@@ -81,7 +81,7 @@ weight = 6
 
 #################### default parameters ################################
 # Meta data
-description = "Hi!This is meta description"
+description = "Hi!This is my website"
 author = "Saikat"
 # contact form action
 contact_form_action = "https://formspree.io/xbjzezgy" # contact form works with https://formspree.io
