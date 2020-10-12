@@ -64,7 +64,7 @@ weight = 3
 
 [[menu.main]]
 name = "Blogs"
-URL = "https://rpubs.com/Saikat173/672896"
+URL = "#portfolio"
 weight = 4
 
 [[menu.main]]
