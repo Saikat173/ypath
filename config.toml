@@ -64,18 +64,15 @@ weight = 3
 
 [[menu.main]]
 name = "Blogs"
-URL = "#portfolio"
+URL = "https://rpubs.com/Saikat173/672896"
 weight = 4
 
-[[menu.main]]
-name = "Testimonial"
-URL = "#testimonial"
-weight = 5
+
 
 [[menu.main]]
 name = "Contact"
 URL = "#contact"
-weight = 6
+weight = 5
 
 
 
